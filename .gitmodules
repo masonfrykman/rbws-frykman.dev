@@ -1,0 +1,3 @@
+[submodule "frykman.dev"]
+	path = frykman.dev
+	url = https://github.com/masonfrykman/frykman.dev
